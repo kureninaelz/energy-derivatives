@@ -1,0 +1,1 @@
+# friend, use all the materials with VECM - there are notes in PDF, data files and code for stata. than can proceed to the book and look at chapter 11 but i think this is too nerdy. my take home exam is not about multivariate - just showing off with nice graphs
